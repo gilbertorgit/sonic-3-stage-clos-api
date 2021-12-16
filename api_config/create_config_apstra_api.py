@@ -292,7 +292,7 @@ def api_ct_int_assign(dic_data):
 
 if __name__ == '__main__':
 
-    """
+
     print("################################################### Creating Common resources")
     
     # --------------------- Resources
@@ -309,7 +309,7 @@ if __name__ == '__main__':
     check_agent_state()
     manage_device_all()
     sleep(5)
-    """
+
     print("################################################### Design")
     # --------------------- Logical devices, interface map, rack type and templates
     api_create_logical_devices()

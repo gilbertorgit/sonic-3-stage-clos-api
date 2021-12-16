@@ -26,6 +26,14 @@ root@lab:/home/lab# git clone https://github.com/gilbertorgit/sonic-3-stage-clos
 root@lab:/home/lab# ansible-playbook sonic-3-stage-clos-api/base-pkg-kvm/playbook.yml
 ```
 
+### Configure your Apstra IP URL
+
+**Edit urls_base_apstra.py and add your Apstra MGMT IP** 
+
+```
+apstra_url = 'https://192.168.0.180:443'
+```
+
 ### API Configuration
 
 ```
