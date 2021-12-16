@@ -3,6 +3,4 @@
     hosts: localhost
     roles:
       - python
-      - kvm-qemu
       - additional_packages
-      - server_conf
