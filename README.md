@@ -8,7 +8,7 @@
 
 ### Pre-deployment Server Configs and Basic Packages
 
-**Packages Installation and configuration**
+**Python Packages Installation**
 
 ```
 lab@lab:~$ sudo su -
@@ -29,8 +29,8 @@ root@lab:/home/lab# ansible-playbook sonic-3-stage-clos-api/base-pkg-kvm/playboo
 ### API Configuration
 
 ```
-root@lab:/home/lab/vmx# cd api_config/
-root@lab:/home/lab/vmx/api_config# python3.7 create_config_apstra_api.py 
+root@lab:# cd sonic-3-stage-clos-api/api_config/
+root@lab:# python3.7 create_config_apstra_api.py 
 
 ```
 
