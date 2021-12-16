@@ -31,7 +31,6 @@ root@lab:/home/lab# ansible-playbook sonic-3-stage-clos-api/base-pkg-kvm/playboo
 ```
 root@lab:# cd sonic-3-stage-clos-api/api_config/
 root@lab:# python3.7 create_config_apstra_api.py 
-
 ```
 
 ## EVE-NG Topology - Virtual Enterprise Sonic and Apstra - 3 Stage Clos DC
