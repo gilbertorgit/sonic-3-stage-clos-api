@@ -23,7 +23,7 @@ root@lab:/home/lab# apt -y install ansible git
 
 root@lab:/home/lab# git clone https://github.com/gilbertorgit/sonic-3-stage-clos-api.git
 
-root@lab:/home/lab# ansible-playbook ent_sonic_apstra/base-pkg-kvm/playbook.yml
+root@lab:/home/lab# ansible-playbook sonic-3-stage-clos-api/base-pkg-kvm/playbook.yml
 ```
 
 ### API Configuration
