@@ -1,5 +1,12 @@
 # Apstra 4.0 - API Topology Configuration
 
+
+EVE-NG topology and Apstra API Script to configure the DC automatically
+
+Refer to this link to know more about the topology and eve-ng configuration for this project:
+
+https://github.com/gilbertorgit/ent_sonic_apstra
+
 ## Authors
 
 **Gilberto Rampini**
