@@ -9,7 +9,7 @@ https://github.com/gilbertorgit/ent_sonic_apstra
 
 ## Authors
 
-**Gilberto Rampini**
+**Gilberto R**
 
 ## Getting Started
 
